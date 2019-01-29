@@ -1,4 +1,4 @@
-from flask import flask
+from flask import Flask
 
 trial = Flask(__name__)
 
